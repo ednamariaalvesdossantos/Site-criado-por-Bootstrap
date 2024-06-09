@@ -1,7 +1,5 @@
 projeto criado pelo website bootstrap,
-e o editor Mobile webcode, demostrado
-nas aulas do professor Guanabara do 
-curso em vídeo de HTML5 e CSS3.
+e o editor Mobile webcode.
 
 /-/                  /-/                    /-/
 
